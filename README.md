@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://magic4me.github.io">
+    <img src="icon.png" alt="Logo" width="140" height="140">
+</a>
+  <h1 align="center">Magic for Me</h1>
+</p>
 
-<!--
-**magic4me/magic4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Magic for Me** (___Magic4Me___) по суті являється блогом моїх досягнень у різних сферах [магії]([Pojasnenja-mahiji]).
+<br>
+Але одночасно з тим і інциклопедією 📖
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Змінні  http://translit.kh.ua/#latynka -->
+[Sajt]: https://magic4me.githib.io/
+[Pojasnenja-mahiji]: [Sajt]/magic-all-around
