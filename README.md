@@ -19,7 +19,7 @@
 Популяризація україномовного інтернет сегменту 🇺🇦
 
 ### Підтримка автора
-[![buy me a book](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=magic4me&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoff.ee/magic4me)
+[![buy me a book](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=magic4me&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoff.ee/magic4me?via=magic4me)
 
 <!-- Змінні  http://translit.kh.ua/#latynka -->
 [Sajt]: https://magic4me.github.io/
