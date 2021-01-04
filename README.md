@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://magic4me.github.io">
+  <a href="https://magic4me.is-a.dev">
     <img src="icon.png" alt="Magic4Me logo" width="140" height="140">
 </a>
   <h1 align="center">Magic for Me</h1>
@@ -22,5 +22,5 @@
 [![buy me a book](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=magic4me&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoff.ee/magic4me?via=magic4me)
 
 <!-- Змінні  http://translit.kh.ua/#latynka -->
-[Sajt]: https://magic4me.github.io/
-[Pojasnenja-mahiji]: https://magic4me.github.io/post/magic-all-around
+[Sajt]: https://magic4me.is-a.dev/
+[Pojasnenja-mahiji]: https://magic4me.is-a.dev/post/magic-all-around
